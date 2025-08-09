@@ -5,3 +5,6 @@ I used the basics I had learned and expanded on them with attributes and element
 About the recipes: Two of the recipes come from food bloggers whom I have been following for some time and who inspire me. You can find the links to their blogs directly in the recipes.
 
 Have fun cooking!
+
+
+UPDATE: After working my way through the CSS foundations, I actually updated the index with some CSS styles.
